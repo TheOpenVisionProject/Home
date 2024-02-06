@@ -1,5 +1,6 @@
 # The OpenVisionProject
 ![Logo](https://github.com/rkdune/openvisionproject/assets/96749303/b8982dc4-a4ad-455a-84b8-d3a44ed01b02)
+
 ⚠️ This repo is in progress! See our website (https://openvision.framer.website) for schedule of releases!
 
 ## Our Purpose
@@ -15,4 +16,4 @@ Building a vision of a blindness-free world using the power of technology.
 
 More coming soon - we are constantly building, shipping, and improving!
 
-
+![Frame 54](https://github.com/TheOpenVisionProject/Home/assets/153481395/4a7becfc-e36f-4a65-b192-5bb812281957)
