@@ -1,4 +1,4 @@
-[# Home](https://openvision.framer.website/
+https://openvision.framer.website
 
 # OpenVisionProject
 ⚠️ this repo is in progress as we are centralizing multiple codebases and files
@@ -16,4 +16,4 @@ Building a vision of a blindness-free world using the power of technology.
 
 More coming soon - we are constantly building, shipping, and improving!
 
-![Logo](https://github.com/rkdune/openvisionproject/assets/96749303/b8982dc4-a4ad-455a-84b8-d3a44ed01b02))https://openvision.framer.website/=
+![Logo](https://github.com/rkdune/openvisionproject/assets/96749303/b8982dc4-a4ad-455a-84b8-d3a44ed01b02))
