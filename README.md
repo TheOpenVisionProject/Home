@@ -1,7 +1,5 @@
-https://openvision.framer.website
-
-# OpenVisionProject
-⚠️ this repo is in progress as we are centralizing multiple codebases and files
+# The OpenVisionProject
+⚠️ This repo is in progress! See our website (https://openvision.framer.website) for schedule of releases!
 
 ## Our Purpose
 Building a vision of a blindness-free world using the power of technology.
