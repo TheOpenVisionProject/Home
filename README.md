@@ -1,5 +1,5 @@
 # The OpenVisionProject
-![Logo](https://github.com/rkdune/openvisionproject/assets/96749303/b8982dc4-a4ad-455a-84b8-d3a44ed01b02)
+![153481395](https://github.com/TheOpenVisionProject/Home/assets/96749303/2139fe08-4bbb-4e91-83e0-99ab79914636)
 
 ⚠️ This repo is in progress! See our website (https://openvision.framer.website) for schedule of releases!
 
